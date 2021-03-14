@@ -3,6 +3,7 @@ package model;
 public class Student {
     private Integer age;
     private String name;
+    private String address;
 
     public Integer getAge() {
         return age;
